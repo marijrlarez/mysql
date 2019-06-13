@@ -1,0 +1,1 @@
+En este repo estaran todos los codigos de la serie de videos de mysql del canal de backend_girl
